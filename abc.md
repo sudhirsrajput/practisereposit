@@ -1,3 +1,2 @@
-Test file
-this file is for sudhi
-bharat hamko jaan se payara hai.
+def abc (a,b,c):
+     retrun(a+b+c)
